@@ -2,7 +2,7 @@
 # ReadMe Generator
 
 ## Description
-A command line application that generates a readme for a application.
+A command line application that generates a readme.
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -16,7 +16,7 @@ A command line application that generates a readme for a application.
 N/A
 
 ## Usage
-Worked long hours on a project and you are missing your readme this is a quick and easy way to generate one.
+When done with a long project use this application to create an easy readme in a fast way.
 
 ## Licenses
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -25,7 +25,7 @@ Worked long hours on a project and you are missing your readme this is a quick a
 Suraj Nair
 
 ## Tests
-None
+None.
 
 ## Questions
 Questions can be directed to snair306@gmail.com or https://github.com/itzbindi
