@@ -1,8 +1,8 @@
 
-# Employee Tracker
+# Portfolio
 
 ## Description
-A simple commmand line application that allows you to put all your companies roles, employees, and employee role information in an easy to navigate data base. 
+A portfolio displaying all my projects and ways to contact me along with my resume! 
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -13,21 +13,21 @@ A simple commmand line application that allows you to put all your companies rol
 - [Questions](#Questions)
 
 ## Installation
-Fork down the application and run node index.js inside of your terminal.
+Just go the link here 
 
 ## Usage
-Have all company information stored and being able to update roles and salary of employees in the case of someone getting a promotion.
+If an interested employer is thinking about hiring me.
 
 ## Licenses
 [![License](https://img.shields.io/badge/License--green.svg)](https://opensource.org/licenses/)
 
 ## Contribution
-Suraj Nair
+Suraj Nair. React. Bootstrap. 
 
 ## Tests
-None
+N/A.
 
 ## Questions
-Questions can be directed to snair306@gmail.com or https://github.com/itzbindi
+Questions can be directed to snair306@gmail.com or https://github.com/ItzBindi
 
 
